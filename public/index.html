@@ -15,8 +15,11 @@
     <body>
         <div id="header"></div>
         <div id="app">
+            <br><br>
             <div class="w3-container">
                 <div class="w3-card w3-threequarter">
+                    <h2>Editor</h2>
+                    <h5>Current File: {{currentFile}}</h5>
                     <div class="w3-card">
                         <form v-on:submit.prevent autocomplete="off">
                             <div>
@@ -44,14 +47,17 @@
                         </form>
                     </div>
                 </div>
-                <div class="w3-card w3-rest">
-                    <h2>Documents</h2>
-                    <ul id="docsList">
-                        <li v-for="data in docs">{{data.name}}</li>
-                    </ul>
+                <div id="doc-list" class="w3-card w3-quarter">
+                    <h2 id="documents">Documents</h2>
+                    <div class="w3-card">
+                        <ul id="docsList">
+                            <li v-for="data in docs">{{data.name}}</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
+        <br><br><br>
     </body>
     <footer>
         <div id="footer"></div>

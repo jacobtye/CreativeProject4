@@ -1,0 +1,3124 @@
+nohup: ignoring input
+here
+Starting on 3000
+[0mGET / [32m200 [0m7.150 ms - 3021[0m
+[0mGET /javascripts/app.js [36m304 [0m1.045 ms - -[0m
+[0mGET /header.html [36m304 [0m0.680 ms - -[0m
+in get
+{}
+[]
+[0mGET /getDocuments [32m200 [0m6.871 ms - 2[0m
+[0mGET /footer.html [36m304 [0m0.300 ms - -[0m
+[0mGET /images/icon.png [36m304 [0m0.620 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.760 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.622 ms - 1464[0m
+in post
+{ text: 'T' }
+T
+[0mPOST /saveTemp [32m200 [0m11.065 ms - 1[0m
+in post
+{ text: 'T' }
+T
+[0mPOST /saveTemp [32m200 [0m0.568 ms - 1[0m
+in post
+{ text: 'To' }
+To
+[0mPOST /saveTemp [32m200 [0m0.764 ms - 2[0m
+in post
+{ text: 'To ' }
+To 
+[0mPOST /saveTemp [32m200 [0m0.768 ms - 3[0m
+in post
+{ text: 'To' }
+To
+[0mPOST /saveTemp [32m200 [0m0.838 ms - 2[0m
+in post
+{ text: 'T' }
+T
+[0mPOST /saveTemp [32m200 [0m0.778 ms - 1[0m
+in post
+{ text: '' }
+
+[0mPOST /saveTemp [32m200 [0m0.670 ms - 0[0m
+in post
+{ text: 'S' }
+S
+[0mPOST /saveTemp [32m200 [0m0.640 ms - 1[0m
+in post
+{ text: 'S' }
+S
+[0mPOST /saveTemp [32m200 [0m0.421 ms - 1[0m
+in post
+{ text: 'Si' }
+Si
+[0mPOST /saveTemp [32m200 [0m0.615 ms - 2[0m
+in post
+{ text: 'Sim' }
+Sim
+[0mPOST /saveTemp [32m200 [0m0.817 ms - 3[0m
+in post
+{ text: 'Simp' }
+Simp
+[0mPOST /saveTemp [32m200 [0m0.771 ms - 4[0m
+in post
+{ text: 'Simpl' }
+Simpl
+[0mPOST /saveTemp [32m200 [0m0.836 ms - 5[0m
+in post
+{ text: 'Simple' }
+Simple
+[0mPOST /saveTemp [32m200 [0m0.795 ms - 6[0m
+in post
+{ text: 'Simple ' }
+Simple 
+[0mPOST /saveTemp [32m200 [0m0.721 ms - 7[0m
+in post
+{ text: 'Simple T' }
+Simple T
+[0mPOST /saveTemp [32m200 [0m0.632 ms - 8[0m
+in post
+{ text: 'Simple T' }
+Simple T
+[0mPOST /saveTemp [32m200 [0m0.398 ms - 8[0m
+in post
+{ text: 'Simple Te' }
+Simple Te
+[0mPOST /saveTemp [32m200 [0m0.622 ms - 9[0m
+in post
+{ text: 'Simple Tes' }
+Simple Tes
+[0mPOST /saveTemp [32m200 [0m0.585 ms - 10[0m
+in post
+{ text: 'Simple Test' }
+Simple Test
+[0mPOST /saveTemp [32m200 [0m0.599 ms - 11[0m
+in post
+{ text: 'Simple Tes' }
+Simple Tes
+[0mPOST /saveTemp [32m200 [0m0.617 ms - 10[0m
+in post
+{ text: 'Simple Te' }
+Simple Te
+[0mPOST /saveTemp [32m200 [0m0.592 ms - 9[0m
+in post
+{ text: 'Simple T' }
+Simple T
+[0mPOST /saveTemp [32m200 [0m0.819 ms - 8[0m
+in post
+{ text: 'Simple ' }
+Simple 
+[0mPOST /saveTemp [32m200 [0m0.784 ms - 7[0m
+in post
+{ text: 'Simple D' }
+Simple D
+[0mPOST /saveTemp [32m200 [0m2.110 ms - 8[0m
+in post
+{ text: 'Simple D' }
+Simple D
+[0mPOST /saveTemp [32m200 [0m0.574 ms - 8[0m
+in post
+{ text: 'Simple Do' }
+Simple Do
+[0mPOST /saveTemp [32m200 [0m0.586 ms - 9[0m
+in post
+{ text: 'Simple Doc' }
+Simple Doc
+[0mPOST /saveTemp [32m200 [0m0.633 ms - 10[0m
+in post
+{ text: 'Simple Docu' }
+Simple Docu
+[0mPOST /saveTemp [32m200 [0m0.568 ms - 11[0m
+in post
+{ text: 'Simple Docum' }
+Simple Docum
+[0mPOST /saveTemp [32m200 [0m0.811 ms - 12[0m
+in post
+{ text: 'Simple Docume' }
+Simple Docume
+[0mPOST /saveTemp [32m200 [0m0.784 ms - 13[0m
+in post
+{ text: 'Simple Documen' }
+Simple Documen
+[0mPOST /saveTemp [32m200 [0m0.774 ms - 14[0m
+in post
+{ text: 'Simple Document' }
+Simple Document
+[0mPOST /saveTemp [32m200 [0m0.877 ms - 15[0m
+in post
+{ text: 'Simple Document ' }
+Simple Document 
+[0mPOST /saveTemp [32m200 [0m0.805 ms - 16[0m
+in post
+{ text: 'Simple Document E' }
+Simple Document E
+[0mPOST /saveTemp [32m200 [0m0.815 ms - 17[0m
+in post
+{ text: 'Simple Document E' }
+Simple Document E
+[0mPOST /saveTemp [32m200 [0m0.432 ms - 17[0m
+in post
+{ text: 'Simple Document Ed' }
+Simple Document Ed
+[0mPOST /saveTemp [32m200 [0m1.199 ms - 18[0m
+in post
+{ text: 'Simple Document Edi' }
+Simple Document Edi
+[0mPOST /saveTemp [32m200 [0m0.785 ms - 19[0m
+in post
+{ text: 'Simple Document Edit' }
+Simple Document Edit
+[0mPOST /saveTemp [32m200 [0m0.669 ms - 20[0m
+in post
+{ text: 'Simple Document Edito' }
+Simple Document Edito
+[0mPOST /saveTemp [32m200 [0m0.602 ms - 21[0m
+in post
+{ text: 'Simple Document Editor' }
+Simple Document Editor
+[0mPOST /saveTemp [32m200 [0m0.611 ms - 22[0m
+in post
+{ text: 'Simple Document Editor:' }
+Simple Document Editor:
+[0mPOST /saveTemp [32m200 [0m0.639 ms - 23[0m
+in post
+{ text: 'Simple Document Editor:' }
+Simple Document Editor:
+[0mPOST /saveTemp [32m200 [0m0.486 ms - 23[0m
+in post
+{ text: 'Simple Document Editor:\n' }
+Simple Document Editor:
+
+[0mPOST /saveTemp [32m200 [0m1.397 ms - 24[0m
+in post
+{ text: 'Simple Document Editor:\nD' }
+Simple Document Editor:
+D
+[0mPOST /saveTemp [32m200 [0m0.685 ms - 25[0m
+in post
+{ text: 'Simple Document Editor:\nD' }
+Simple Document Editor:
+D
+[0mPOST /saveTemp [32m200 [0m0.599 ms - 25[0m
+in post
+{ text: 'Simple Document Editor:\nDo' }
+Simple Document Editor:
+Do
+[0mPOST /saveTemp [32m200 [0m0.626 ms - 26[0m
+in post
+{ text: 'Simple Document Editor:\nDo ' }
+Simple Document Editor:
+Do 
+[0mPOST /saveTemp [32m200 [0m1.066 ms - 27[0m
+in post
+{ text: 'Simple Document Editor:\nDo' }
+Simple Document Editor:
+Do
+[0mPOST /saveTemp [32m200 [0m0.604 ms - 26[0m
+in post
+{ text: 'Simple Document Editor:\nD' }
+Simple Document Editor:
+D
+[0mPOST /saveTemp [32m200 [0m0.626 ms - 25[0m
+in post
+{ text: 'Simple Document Editor:\n' }
+Simple Document Editor:
+
+[0mPOST /saveTemp [32m200 [0m0.692 ms - 24[0m
+in post
+{ text: 'Simple Document Editor:\nW' }
+Simple Document Editor:
+W
+[0mPOST /saveTemp [32m200 [0m0.653 ms - 25[0m
+in post
+{ text: 'Simple Document Editor:\nW' }
+Simple Document Editor:
+W
+[0mPOST /saveTemp [32m200 [0m0.497 ms - 25[0m
+in post
+{ text: 'Simple Document Editor:\nWo' }
+Simple Document Editor:
+Wo
+[0mPOST /saveTemp [32m200 [0m0.603 ms - 26[0m
+in post
+{ text: 'Simple Document Editor:\nWor' }
+Simple Document Editor:
+Wor
+[0mPOST /saveTemp [32m200 [0m0.629 ms - 27[0m
+in post
+{ text: 'Simple Document Editor:\nWork' }
+Simple Document Editor:
+Work
+[0mPOST /saveTemp [32m200 [0m0.617 ms - 28[0m
+in post
+{ text: 'Simple Document Editor:\nWorks' }
+Simple Document Editor:
+Works
+[0mPOST /saveTemp [32m200 [0m0.594 ms - 29[0m
+in post
+{ text: 'Simple Document Editor:\nWorks ' }
+Simple Document Editor:
+Works 
+[0mPOST /saveTemp [32m200 [0m1.289 ms - 30[0m
+in post
+{ text: 'Simple Document Editor:\nWorks s' }
+Simple Document Editor:
+Works s
+[0mPOST /saveTemp [32m200 [0m0.800 ms - 31[0m
+in post
+{ text: 'Simple Document Editor:\nWorks si' }
+Simple Document Editor:
+Works si
+[0mPOST /saveTemp [32m200 [0m0.929 ms - 32[0m
+in post
+{ text: 'Simple Document Editor:\nWorks sim' }
+Simple Document Editor:
+Works sim
+[0mPOST /saveTemp [32m200 [0m0.795 ms - 33[0m
+in post
+{ text: 'Simple Document Editor:\nWorks simi' }
+Simple Document Editor:
+Works simi
+[0mPOST /saveTemp [32m200 [0m0.794 ms - 34[0m
+in post
+{ text: 'Simple Document Editor:\nWorks simil' }
+Simple Document Editor:
+Works simil
+[0mPOST /saveTemp [32m200 [0m0.804 ms - 35[0m
+in post
+{ text: 'Simple Document Editor:\nWorks simila' }
+Simple Document Editor:
+Works simila
+[0mPOST /saveTemp [32m200 [0m0.801 ms - 36[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar' }
+Simple Document Editor:
+Works similar
+[0mPOST /saveTemp [32m200 [0m0.629 ms - 37[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar ' }
+Simple Document Editor:
+Works similar 
+[0mPOST /saveTemp [32m200 [0m0.619 ms - 38[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar t' }
+Simple Document Editor:
+Works similar t
+[0mPOST /saveTemp [32m200 [0m1.119 ms - 39[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to' }
+Simple Document Editor:
+Works similar to
+[0mPOST /saveTemp [32m200 [0m0.775 ms - 40[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to ' }
+Simple Document Editor:
+Works similar to 
+[0mPOST /saveTemp [32m200 [0m0.888 ms - 41[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to w' }
+Simple Document Editor:
+Works similar to w
+[0mPOST /saveTemp [32m200 [0m0.792 ms - 42[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to wo' }
+Simple Document Editor:
+Works similar to wo
+[0mPOST /saveTemp [32m200 [0m0.830 ms - 43[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to wor' }
+Simple Document Editor:
+Works similar to wor
+[0mPOST /saveTemp [32m200 [0m0.809 ms - 44[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to work' }
+Simple Document Editor:
+Works similar to work
+[0mPOST /saveTemp [32m200 [0m0.855 ms - 45[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to work.' }
+Simple Document Editor:
+Works similar to work.
+[0mPOST /saveTemp [32m200 [0m0.976 ms - 46[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to work' }
+Simple Document Editor:
+Works similar to work
+[0mPOST /saveTemp [32m200 [0m0.623 ms - 45[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to wor' }
+Simple Document Editor:
+Works similar to wor
+[0mPOST /saveTemp [32m200 [0m0.809 ms - 44[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to word' }
+Simple Document Editor:
+Works similar to word
+[0mPOST /saveTemp [32m200 [0m1.544 ms - 45[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to wor' }
+Simple Document Editor:
+Works similar to wor
+[0mPOST /saveTemp [32m200 [0m0.627 ms - 44[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to wo' }
+Simple Document Editor:
+Works similar to wo
+[0mPOST /saveTemp [32m200 [0m0.592 ms - 43[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to w' }
+Simple Document Editor:
+Works similar to w
+[0mPOST /saveTemp [32m200 [0m0.589 ms - 42[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to ' }
+Simple Document Editor:
+Works similar to 
+[0mPOST /saveTemp [32m200 [0m0.609 ms - 41[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to M' }
+Simple Document Editor:
+Works similar to M
+[0mPOST /saveTemp [32m200 [0m0.627 ms - 42[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to M' }
+Simple Document Editor:
+Works similar to M
+[0mPOST /saveTemp [32m200 [0m0.601 ms - 42[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Mi' }
+Simple Document Editor:
+Works similar to Mi
+[0mPOST /saveTemp [32m200 [0m0.589 ms - 43[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Mic' }
+Simple Document Editor:
+Works similar to Mic
+[0mPOST /saveTemp [32m200 [0m0.633 ms - 44[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Micr' }
+Simple Document Editor:
+Works similar to Micr
+[0mPOST /saveTemp [32m200 [0m0.605 ms - 45[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Micro' }
+Simple Document Editor:
+Works similar to Micro
+[0mPOST /saveTemp [32m200 [0m0.589 ms - 46[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Micros' }
+Simple Document Editor:
+Works similar to Micros
+[0mPOST /saveTemp [32m200 [0m0.631 ms - 47[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Microso' }
+Simple Document Editor:
+Works similar to Microso
+[0mPOST /saveTemp [32m200 [0m0.597 ms - 48[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Microsof' }
+Simple Document Editor:
+Works similar to Microsof
+[0mPOST /saveTemp [32m200 [0m0.660 ms - 49[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Microsoft' }
+Simple Document Editor:
+Works similar to Microsoft
+[0mPOST /saveTemp [32m200 [0m0.667 ms - 50[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Microsoft ' }
+Simple Document Editor:
+Works similar to Microsoft 
+[0mPOST /saveTemp [32m200 [0m0.709 ms - 51[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Microsoft W' }
+Simple Document Editor:
+Works similar to Microsoft W
+[0mPOST /saveTemp [32m200 [0m0.654 ms - 52[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Microsoft W' }
+Simple Document Editor:
+Works similar to Microsoft W
+[0mPOST /saveTemp [32m200 [0m0.586 ms - 52[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Microsoft Wo' }
+Simple Document Editor:
+Works similar to Microsoft Wo
+[0mPOST /saveTemp [32m200 [0m7.063 ms - 53[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Microsoft Wor' }
+Simple Document Editor:
+Works similar to Microsoft Wor
+[0mPOST /saveTemp [32m200 [0m1.030 ms - 54[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Microsoft Word' }
+Simple Document Editor:
+Works similar to Microsoft Word
+[0mPOST /saveTemp [32m200 [0m1.034 ms - 55[0m
+in post
+{ text: 'Simple Document Editor:\nWorks similar to Microsoft Word.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+[0mPOST /saveTemp [32m200 [0m0.752 ms - 56[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+
+[0mPOST /saveTemp [32m200 [0m0.617 ms - 57[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\nS' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+S
+[0mPOST /saveTemp [32m200 [0m0.653 ms - 58[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\nS' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+S
+[0mPOST /saveTemp [32m200 [0m0.605 ms - 58[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\nSa' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+Sa
+[0mPOST /saveTemp [32m200 [0m0.619 ms - 59[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\nS' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+S
+[0mPOST /saveTemp [32m200 [0m0.683 ms - 58[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+
+[0mPOST /saveTemp [32m200 [0m1.579 ms - 57[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'
+[0mPOST /saveTemp [32m200 [0m0.702 ms - 58[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'S' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'S
+[0mPOST /saveTemp [32m200 [0m0.624 ms - 59[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'S' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'S
+[0mPOST /saveTemp [32m200 [0m0.435 ms - 59[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Sa' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Sa
+[0mPOST /saveTemp [32m200 [0m0.673 ms - 60[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Sav' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Sav
+[0mPOST /saveTemp [32m200 [0m0.642 ms - 61[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save
+[0mPOST /saveTemp [32m200 [0m0.608 ms - 62[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\'' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save'
+[0mPOST /saveTemp [32m200 [0m0.706 ms - 63[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' 
+[0mPOST /saveTemp [32m200 [0m0.619 ms - 64[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' w' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' w
+[0mPOST /saveTemp [32m200 [0m0.615 ms - 65[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' wi' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' wi
+[0mPOST /saveTemp [32m200 [0m0.617 ms - 66[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' wil' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' wil
+[0mPOST /saveTemp [32m200 [0m0.642 ms - 67[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will
+[0mPOST /saveTemp [32m200 [0m0.630 ms - 68[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will 
+[0mPOST /saveTemp [32m200 [0m0.658 ms - 69[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will s' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will s
+[0mPOST /saveTemp [32m200 [0m1.093 ms - 70[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will sv' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will sv
+[0mPOST /saveTemp [32m200 [0m1.027 ms - 71[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will s' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will s
+[0mPOST /saveTemp [32m200 [0m0.904 ms - 70[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will s' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will s
+[0mPOST /saveTemp [32m200 [0m0.746 ms - 70[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will s' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will s
+[0mPOST /saveTemp [32m200 [0m0.831 ms - 70[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will sa' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will sa
+[0mPOST /saveTemp [32m200 [0m0.645 ms - 71[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will sav' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will sav
+[0mPOST /saveTemp [32m200 [0m0.617 ms - 72[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save
+[0mPOST /saveTemp [32m200 [0m0.826 ms - 73[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save 
+[0mPOST /saveTemp [32m200 [0m0.625 ms - 74[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save t' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save t
+[0mPOST /saveTemp [32m200 [0m0.644 ms - 75[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to
+[0mPOST /saveTemp [32m200 [0m0.893 ms - 76[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to t' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to t
+[0mPOST /saveTemp [32m200 [0m0.798 ms - 78[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to t' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to t
+[0mPOST /saveTemp [32m200 [0m0.668 ms - 78[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to th' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to th
+[0mPOST /saveTemp [32m200 [0m0.808 ms - 79[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the
+[0mPOST /saveTemp [32m200 [0m0.844 ms - 80[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the 
+[0mPOST /saveTemp [32m200 [0m0.810 ms - 81[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the c' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the c
+[0mPOST /saveTemp [32m200 [0m4.066 ms - 82[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the cu' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the cu
+[0mPOST /saveTemp [32m200 [0m0.813 ms - 83[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the cur' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the cur
+[0mPOST /saveTemp [32m200 [0m0.812 ms - 84[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the curr' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the curr
+[0mPOST /saveTemp [32m200 [0m0.844 ms - 85[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the currn' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the currn
+[0mPOST /saveTemp [32m200 [0m0.865 ms - 86[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the curr' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the curr
+[0mPOST /saveTemp [32m200 [0m0.844 ms - 85[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the curre' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the curre
+[0mPOST /saveTemp [32m200 [0m0.787 ms - 86[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the curren' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the curren
+[0mPOST /saveTemp [32m200 [0m0.803 ms - 87[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current
+[0mPOST /saveTemp [32m200 [0m0.846 ms - 88[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current 
+[0mPOST /saveTemp [32m200 [0m1.410 ms - 89[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current f' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current f
+[0mPOST /saveTemp [32m200 [0m0.624 ms - 90[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current fi' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current fi
+[0mPOST /saveTemp [32m200 [0m0.809 ms - 91[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current fil' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current fil
+[0mPOST /saveTemp [32m200 [0m0.649 ms - 92[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file
+[0mPOST /saveTemp [32m200 [0m0.803 ms - 93[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file,' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file,
+[0mPOST /saveTemp [32m200 [0m0.699 ms - 94[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, 
+[0mPOST /saveTemp [32m200 [0m0.617 ms - 95[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, o' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, o
+[0mPOST /saveTemp [32m200 [0m0.672 ms - 96[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, ov' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, ov
+[0mPOST /saveTemp [32m200 [0m0.826 ms - 97[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, over' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, over
+[0mPOST /saveTemp [32m200 [0m1.507 ms - 99[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, over' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, over
+[0mPOST /saveTemp [32m200 [0m0.734 ms - 99[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overw' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overw
+[0mPOST /saveTemp [32m200 [0m0.814 ms - 100[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwr' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwr
+[0mPOST /saveTemp [32m200 [0m0.822 ms - 101[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwrt' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwrt
+[0mPOST /saveTemp [32m200 [0m0.861 ms - 102[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwrti' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwrti
+[0mPOST /saveTemp [32m200 [0m1.759 ms - 103[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwrtin' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwrtin
+[0mPOST /saveTemp [32m200 [0m0.874 ms - 104[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwrting' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwrting
+[0mPOST /saveTemp [32m200 [0m0.810 ms - 105[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwrting ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwrting 
+[0mPOST /saveTemp [32m200 [0m0.810 ms - 106[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwrting i' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwrting i
+[0mPOST /saveTemp [32m200 [0m0.792 ms - 107[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwrting it' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwrting it
+[0mPOST /saveTemp [32m200 [0m1.064 ms - 108[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwrting it.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwrting it.
+[0mPOST /saveTemp [32m200 [0m0.626 ms - 109[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+
+[0mPOST /saveTemp [32m200 [0m0.631 ms - 111[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'
+[0mPOST /saveTemp [32m200 [0m0.660 ms - 112[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'S' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'S
+[0mPOST /saveTemp [32m200 [0m0.608 ms - 113[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'S' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'S
+[0mPOST /saveTemp [32m200 [0m0.469 ms - 113[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Sa' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Sa
+[0mPOST /saveTemp [32m200 [0m0.861 ms - 114[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Sav' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Sav
+[0mPOST /saveTemp [32m200 [0m0.817 ms - 115[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save
+[0mPOST /saveTemp [32m200 [0m0.865 ms - 116[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save 
+[0mPOST /saveTemp [32m200 [0m0.792 ms - 117[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save A' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save A
+[0mPOST /saveTemp [32m200 [0m0.659 ms - 118[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save A' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save A
+[0mPOST /saveTemp [32m200 [0m0.453 ms - 118[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As
+[0mPOST /saveTemp [32m200 [0m0.620 ms - 119[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\'' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As'
+[0mPOST /saveTemp [32m200 [0m0.656 ms - 120[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' 
+[0mPOST /saveTemp [32m200 [0m0.627 ms - 121[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' w' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' w
+[0mPOST /saveTemp [32m200 [0m0.622 ms - 122[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' wi' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' wi
+[0mPOST /saveTemp [32m200 [0m0.629 ms - 123[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' wil' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' wil
+[0mPOST /saveTemp [32m200 [0m0.683 ms - 124[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will
+[0mPOST /saveTemp [32m200 [0m0.709 ms - 125[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will 
+[0mPOST /saveTemp [32m200 [0m0.662 ms - 126[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will s' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will s
+[0mPOST /saveTemp [32m200 [0m0.649 ms - 127[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will sa' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will sa
+[0mPOST /saveTemp [32m200 [0m0.625 ms - 128[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will sav' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will sav
+[0mPOST /saveTemp [32m200 [0m0.730 ms - 129[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save
+[0mPOST /saveTemp [32m200 [0m1.311 ms - 130[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save 
+[0mPOST /saveTemp [32m200 [0m0.685 ms - 131[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save t' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save t
+[0mPOST /saveTemp [32m200 [0m0.679 ms - 132[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save te' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save te
+[0mPOST /saveTemp [32m200 [0m0.671 ms - 133[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save tex' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save tex
+[0mPOST /saveTemp [32m200 [0m0.662 ms - 134[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text
+[0mPOST /saveTemp [32m200 [0m0.655 ms - 135[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text 
+[0mPOST /saveTemp [32m200 [0m0.617 ms - 136[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text t' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text t
+[0mPOST /saveTemp [32m200 [0m0.669 ms - 137[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to
+[0mPOST /saveTemp [32m200 [0m0.624 ms - 138[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to 
+[0mPOST /saveTemp [32m200 [0m0.664 ms - 139[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a
+[0mPOST /saveTemp [32m200 [0m0.633 ms - 140[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a 
+[0mPOST /saveTemp [32m200 [0m0.619 ms - 141[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a n' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a n
+[0mPOST /saveTemp [32m200 [0m0.656 ms - 142[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new
+[0mPOST /saveTemp [32m200 [0m0.626 ms - 144[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new
+[0mPOST /saveTemp [32m200 [0m0.630 ms - 144[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new 
+[0mPOST /saveTemp [32m200 [0m0.820 ms - 145[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new n' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new n
+[0mPOST /saveTemp [32m200 [0m0.684 ms - 146[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new na' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new na
+[0mPOST /saveTemp [32m200 [0m0.674 ms - 147[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new nam' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new nam
+[0mPOST /saveTemp [32m200 [0m0.620 ms - 148[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name
+[0mPOST /saveTemp [32m200 [0m0.796 ms - 149[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+[0mPOST /saveTemp [32m200 [0m0.664 ms - 150[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+
+[0mPOST /saveTemp [32m200 [0m0.650 ms - 151[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'
+[0mPOST /saveTemp [32m200 [0m0.637 ms - 152[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'L' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'L
+[0mPOST /saveTemp [32m200 [0m0.945 ms - 153[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'L' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'L
+[0mPOST /saveTemp [32m200 [0m0.643 ms - 153[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Lo' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Lo
+[0mPOST /saveTemp [32m200 [0m0.613 ms - 154[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Loa' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Loa
+[0mPOST /saveTemp [32m200 [0m0.675 ms - 155[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load
+[0mPOST /saveTemp [32m200 [0m0.652 ms - 156[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\'' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load'
+[0mPOST /saveTemp [32m200 [0m0.642 ms - 157[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' 
+[0mPOST /saveTemp [32m200 [0m0.634 ms - 158[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' l' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' l
+[0mPOST /saveTemp [32m200 [0m5.019 ms - 159[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' lo' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' lo
+[0mPOST /saveTemp [32m200 [0m0.600 ms - 160[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loa' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loa
+[0mPOST /saveTemp [32m200 [0m0.593 ms - 161[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' load' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' load
+[0mPOST /saveTemp [32m200 [0m0.580 ms - 162[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loade' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loade
+[0mPOST /saveTemp [32m200 [0m0.630 ms - 163[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loades' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loades
+[0mPOST /saveTemp [32m200 [0m0.591 ms - 164[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loade' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loade
+[0mPOST /saveTemp [32m200 [0m0.606 ms - 163[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' load' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' load
+[0mPOST /saveTemp [32m200 [0m0.644 ms - 162[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads
+[0mPOST /saveTemp [32m200 [0m0.621 ms - 163[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads 
+[0mPOST /saveTemp [32m200 [0m0.579 ms - 164[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads i' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads i
+[0mPOST /saveTemp [32m200 [0m0.624 ms - 165[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in
+[0mPOST /saveTemp [32m200 [0m0.590 ms - 166[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in 
+[0mPOST /saveTemp [32m200 [0m0.598 ms - 167[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in t' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in t
+[0mPOST /saveTemp [32m200 [0m0.680 ms - 168[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in th' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in th
+[0mPOST /saveTemp [32m200 [0m0.607 ms - 169[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the 
+[0mPOST /saveTemp [32m200 [0m0.586 ms - 171[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the 
+[0mPOST /saveTemp [32m200 [0m0.533 ms - 171[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the c' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the c
+[0mPOST /saveTemp [32m200 [0m0.613 ms - 172[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the co' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the co
+[0mPOST /saveTemp [32m200 [0m0.809 ms - 173[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the con' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the con
+[0mPOST /saveTemp [32m200 [0m0.601 ms - 174[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the cont' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the cont
+[0mPOST /saveTemp [32m200 [0m1.518 ms - 175[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the conte' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the conte
+[0mPOST /saveTemp [32m200 [0m0.787 ms - 176[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the conten' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the conten
+[0mPOST /saveTemp [32m200 [0m0.775 ms - 177[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the content' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the content
+[0mPOST /saveTemp [32m200 [0m0.619 ms - 178[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents
+[0mPOST /saveTemp [32m200 [0m0.785 ms - 179[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents 
+[0mPOST /saveTemp [32m200 [0m0.779 ms - 180[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents f' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents f
+[0mPOST /saveTemp [32m200 [0m0.798 ms - 181[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents 
+[0mPOST /saveTemp [32m200 [0m0.806 ms - 180[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents o' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents o
+[0mPOST /saveTemp [32m200 [0m0.821 ms - 181[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of
+[0mPOST /saveTemp [32m200 [0m0.792 ms - 182[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of 
+[0mPOST /saveTemp [32m200 [0m0.830 ms - 183[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a
+[0mPOST /saveTemp [32m200 [0m0.645 ms - 184[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a 
+[0mPOST /saveTemp [32m200 [0m0.611 ms - 185[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a f' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a f
+[0mPOST /saveTemp [32m200 [0m0.588 ms - 186[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a fi' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a fi
+[0mPOST /saveTemp [32m200 [0m0.585 ms - 187[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a fil' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a fil
+[0mPOST /saveTemp [32m200 [0m0.657 ms - 188[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+[0mPOST /saveTemp [32m200 [0m0.594 ms - 189[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+
+[0mPOST /saveTemp [32m200 [0m0.630 ms - 190[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'
+[0mPOST /saveTemp [32m200 [0m0.627 ms - 191[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'D' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'D
+[0mPOST /saveTemp [32m200 [0m0.590 ms - 192[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'D' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'D
+[0mPOST /saveTemp [32m200 [0m1.100 ms - 192[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'De' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'De
+[0mPOST /saveTemp [32m200 [0m0.744 ms - 193[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Del' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Del
+[0mPOST /saveTemp [32m200 [0m0.732 ms - 194[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Dele' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Dele
+[0mPOST /saveTemp [32m200 [0m0.741 ms - 195[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delet' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delet
+[0mPOST /saveTemp [32m200 [0m0.825 ms - 196[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete
+[0mPOST /saveTemp [32m200 [0m0.774 ms - 197[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\'' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete'
+[0mPOST /saveTemp [32m200 [0m0.750 ms - 198[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' 
+[0mPOST /saveTemp [32m200 [0m0.838 ms - 199[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' d' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' d
+[0mPOST /saveTemp [32m200 [0m0.599 ms - 200[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' de' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' de
+[0mPOST /saveTemp [32m200 [0m0.607 ms - 201[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' del' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' del
+[0mPOST /saveTemp [32m200 [0m0.636 ms - 202[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' dele' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' dele
+[0mPOST /saveTemp [32m200 [0m0.595 ms - 203[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' delet' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' delet
+[0mPOST /saveTemp [32m200 [0m0.607 ms - 204[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' delete' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' delete
+[0mPOST /saveTemp [32m200 [0m0.806 ms - 205[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes
+[0mPOST /saveTemp [32m200 [0m1.509 ms - 206[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes 
+[0mPOST /saveTemp [32m200 [0m0.659 ms - 207[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a
+[0mPOST /saveTemp [32m200 [0m0.625 ms - 208[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a 
+[0mPOST /saveTemp [32m200 [0m0.622 ms - 209[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a f' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a f
+[0mPOST /saveTemp [32m200 [0m0.820 ms - 210[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a fi' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a fi
+[0mPOST /saveTemp [32m200 [0m0.628 ms - 211[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a fil' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a fil
+[0mPOST /saveTemp [32m200 [0m0.612 ms - 212[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file
+[0mPOST /saveTemp [32m200 [0m1.733 ms - 213[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file 
+[0mPOST /saveTemp [32m200 [0m0.773 ms - 214[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file f' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file f
+[0mPOST /saveTemp [32m200 [0m1.261 ms - 215[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file fr' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file fr
+[0mPOST /saveTemp [32m200 [0m0.809 ms - 216[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file fro' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file fro
+[0mPOST /saveTemp [32m200 [0m0.823 ms - 217[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from
+[0mPOST /saveTemp [32m200 [0m0.794 ms - 218[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from 
+[0mPOST /saveTemp [32m200 [0m1.733 ms - 219[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from th' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from th
+[0mPOST /saveTemp [32m200 [0m0.786 ms - 221[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from th' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from th
+[0mPOST /saveTemp [32m200 [0m0.727 ms - 221[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the
+[0mPOST /saveTemp [32m200 [0m0.760 ms - 222[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the 
+[0mPOST /saveTemp [32m200 [0m0.748 ms - 223[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the s' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the s
+[0mPOST /saveTemp [32m200 [0m0.758 ms - 224[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the ser' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the ser
+[0mPOST /saveTemp [32m200 [0m0.787 ms - 226[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the ser' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the ser
+[0mPOST /saveTemp [32m200 [0m0.778 ms - 226[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the serv' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the serv
+[0mPOST /saveTemp [32m200 [0m0.820 ms - 227[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the serve' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the serve
+[0mPOST /saveTemp [32m200 [0m0.800 ms - 228[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+[0mPOST /saveTemp [32m200 [0m0.783 ms - 229[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+
+[0mPOST /saveTemp [32m200 [0m0.624 ms - 230[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'
+[0mPOST /saveTemp [32m200 [0m0.636 ms - 231[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'N' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'N
+[0mPOST /saveTemp [32m200 [0m0.582 ms - 232[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'N' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'N
+[0mPOST /saveTemp [32m200 [0m0.601 ms - 232[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New
+[0mPOST /saveTemp [32m200 [0m0.636 ms - 234[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New
+[0mPOST /saveTemp [32m200 [0m0.623 ms - 234[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New 
+[0mPOST /saveTemp [32m200 [0m0.589 ms - 235[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New F' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New F
+[0mPOST /saveTemp [32m200 [0m0.655 ms - 236[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New F' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New F
+[0mPOST /saveTemp [32m200 [0m0.379 ms - 236[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New Fi' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New Fi
+[0mPOST /saveTemp [32m200 [0m0.576 ms - 237[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New Fil' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New Fil
+[0mPOST /saveTemp [32m200 [0m0.583 ms - 238[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File
+[0mPOST /saveTemp [32m200 [0m0.620 ms - 239[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\'' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File'
+[0mPOST /saveTemp [32m200 [0m0.611 ms - 240[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' 
+[0mPOST /saveTemp [32m200 [0m0.640 ms - 241[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' C' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' C
+[0mPOST /saveTemp [32m200 [0m0.603 ms - 242[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' C' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' C
+[0mPOST /saveTemp [32m200 [0m0.505 ms - 242[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Cl' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Cl
+[0mPOST /saveTemp [32m200 [0m0.632 ms - 243[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Cle' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Cle
+[0mPOST /saveTemp [32m200 [0m0.594 ms - 244[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clea' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clea
+[0mPOST /saveTemp [32m200 [0m0.578 ms - 245[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clear' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clear
+[0mPOST /saveTemp [32m200 [0m0.601 ms - 246[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears
+[0mPOST /saveTemp [32m200 [0m0.771 ms - 247[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears 
+[0mPOST /saveTemp [32m200 [0m1.464 ms - 248[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears t' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears t
+[0mPOST /saveTemp [32m200 [0m0.584 ms - 249[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the
+[0mPOST /saveTemp [32m200 [0m0.577 ms - 251[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the
+[0mPOST /saveTemp [32m200 [0m4.339 ms - 251[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the 
+[0mPOST /saveTemp [32m200 [0m0.778 ms - 252[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the t' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the t
+[0mPOST /saveTemp [32m200 [0m0.683 ms - 253[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the te' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the te
+[0mPOST /saveTemp [32m200 [0m0.590 ms - 254[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the tex' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the tex
+[0mPOST /saveTemp [32m200 [0m0.613 ms - 255[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text
+[0mPOST /saveTemp [32m200 [0m3.075 ms - 256[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text 
+[0mPOST /saveTemp [32m200 [0m1.288 ms - 257[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text b' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text b
+[0mPOST /saveTemp [32m200 [0m0.588 ms - 258[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text bo' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text bo
+[0mPOST /saveTemp [32m200 [0m1.047 ms - 259[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box
+[0mPOST /saveTemp [32m200 [0m0.636 ms - 260[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box 
+[0mPOST /saveTemp [32m200 [0m0.588 ms - 261[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box a' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box a
+[0mPOST /saveTemp [32m200 [0m0.580 ms - 262[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box ad' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box ad
+[0mPOST /saveTemp [32m200 [0m0.631 ms - 263[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box ad ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box ad 
+[0mPOST /saveTemp [32m200 [0m0.616 ms - 264[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box ad' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box ad
+[0mPOST /saveTemp [32m200 [0m0.597 ms - 263[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box a' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box a
+[0mPOST /saveTemp [32m200 [0m0.569 ms - 262[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box an' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box an
+[0mPOST /saveTemp [32m200 [0m0.597 ms - 263[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and
+[0mPOST /saveTemp [32m200 [0m0.763 ms - 264[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and 
+[0mPOST /saveTemp [32m200 [0m0.600 ms - 265[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and c' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and c
+[0mPOST /saveTemp [32m200 [0m1.574 ms - 266[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and cu' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and cu
+[0mPOST /saveTemp [32m200 [0m0.590 ms - 267[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and cur' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and cur
+[0mPOST /saveTemp [32m200 [0m0.597 ms - 268[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and curr' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and curr
+[0mPOST /saveTemp [32m200 [0m0.665 ms - 269[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and curre' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and curre
+[0mPOST /saveTemp [32m200 [0m0.589 ms - 270[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and curren' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and curren
+[0mPOST /saveTemp [32m200 [0m0.603 ms - 271[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current
+[0mPOST /saveTemp [32m200 [0m0.576 ms - 272[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current 
+[0mPOST /saveTemp [32m200 [0m0.768 ms - 273[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current f' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current f
+[0mPOST /saveTemp [32m200 [0m0.616 ms - 274[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current fi' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current fi
+[0mPOST /saveTemp [32m200 [0m0.597 ms - 275[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current fil' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current fil
+[0mPOST /saveTemp [32m200 [0m0.596 ms - 276[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file
+[0mPOST /saveTemp [32m200 [0m0.780 ms - 277[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file ' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file 
+[0mPOST /saveTemp [32m200 [0m0.804 ms - 278[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file n' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file n
+[0mPOST /saveTemp [32m200 [0m1.056 ms - 279[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file na' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file na
+[0mPOST /saveTemp [32m200 [0m0.768 ms - 280[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file nam' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file nam
+[0mPOST /saveTemp [32m200 [0m0.785 ms - 281[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name
+[0mPOST /saveTemp [32m200 [0m0.762 ms - 282[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.608 ms - 283[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.614 ms - 283[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.596 ms - 283[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.597 ms - 283[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.619 ms - 283[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.642 ms - 283[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.593 ms - 283[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.578 ms - 283[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.615 ms - 283[0m
+in post
+{ name: 'README.txt',
+  text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' } ]
+[0mPOST /saveDocument [32m200 [0m1.034 ms - 320[0m
+in get
+{}
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' } ]
+[0mGET /getDocuments [32m200 [0m1.119 ms - 322[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.603 ms - 283[0m
+in post
+{ text:
+   'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' }
+Simple Document Editor:
+Works similar to Microsoft Word.
+'Save' will save to the current file, overwriting it.
+'Save As' will save text to a new name.
+'Load' loads in the contents of a file
+'Delete' deletes a file from the server
+'New File' Clears the text box and current file name.
+[0mPOST /saveTemp [32m200 [0m0.574 ms - 283[0m
+[0mGET / [32m200 [0m0.822 ms - 3080[0m
+[0mGET /javascripts/app.js [32m200 [0m0.588 ms - 4267[0m
+in get
+{}
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' } ]
+[0mGET /getDocuments [36m304 [0m0.787 ms - -[0m
+[0mGET /header.html [36m304 [0m0.297 ms - -[0m
+[0mGET /footer.html [36m304 [0m0.285 ms - -[0m
+[0mGET /images/icon.png [36m304 [0m0.888 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.263 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.482 ms - 1464[0m
+[0mGET / [32m200 [0m0.481 ms - 3080[0m
+[0mGET /javascripts/app.js [36m304 [0m0.338 ms - -[0m
+in get
+{}
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' } ]
+[0mGET /getDocuments [36m304 [0m0.771 ms - -[0m
+[0mGET /header.html [36m304 [0m0.269 ms - -[0m
+[0mGET /footer.html [36m304 [0m0.445 ms - -[0m
+[0mGET /images/icon.png [36m304 [0m0.334 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.224 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.985 ms - 1464[0m
+[0mGET / [32m200 [0m0.479 ms - 3080[0m
+[0mGET /javascripts/app.js [36m304 [0m0.326 ms - -[0m
+in get
+{}
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' } ]
+[0mGET /getDocuments [36m304 [0m0.727 ms - -[0m
+[0mGET /header.html [36m304 [0m4.968 ms - -[0m
+[0mGET /footer.html [36m304 [0m0.295 ms - -[0m
+[0mGET /images/icon.png [36m304 [0m0.550 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.566 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.447 ms - 1464[0m
+in post
+{ text: 'T' }
+T
+[0mPOST /saveTemp [32m200 [0m0.792 ms - 1[0m
+in post
+{ text: 'T' }
+T
+[0mPOST /saveTemp [32m200 [0m0.447 ms - 1[0m
+in post
+{ text: 'Th' }
+Th
+[0mPOST /saveTemp [32m200 [0m0.760 ms - 2[0m
+in post
+{ text: 'Thi' }
+Thi
+[0mPOST /saveTemp [32m200 [0m0.750 ms - 3[0m
+in post
+{ text: 'This ' }
+This 
+[0mPOST /saveTemp [32m200 [0m0.742 ms - 5[0m
+in post
+{ text: 'This ' }
+This 
+[0mPOST /saveTemp [32m200 [0m1.134 ms - 5[0m
+in post
+{ text: 'This is' }
+This is
+[0mPOST /saveTemp [32m200 [0m0.768 ms - 7[0m
+in post
+{ text: 'This is' }
+This is
+[0mPOST /saveTemp [32m200 [0m0.739 ms - 7[0m
+in post
+{ text: 'This is ' }
+This is 
+[0mPOST /saveTemp [32m200 [0m0.750 ms - 8[0m
+in post
+{ text: 'This is a' }
+This is a
+[0mPOST /saveTemp [32m200 [0m1.545 ms - 9[0m
+in post
+{ text: 'This is a ' }
+This is a 
+[0mPOST /saveTemp [32m200 [0m0.767 ms - 10[0m
+in post
+{ text: 'This is a t' }
+This is a t
+[0mPOST /saveTemp [32m200 [0m0.771 ms - 11[0m
+in post
+{ text: 'This is a te' }
+This is a te
+[0mPOST /saveTemp [32m200 [0m0.602 ms - 12[0m
+in post
+{ text: 'This is a test' }
+This is a test
+[0mPOST /saveTemp [32m200 [0m0.601 ms - 14[0m
+in post
+{ text: 'This is a test' }
+This is a test
+[0mPOST /saveTemp [32m200 [0m0.358 ms - 14[0m
+[0mGET / [36m304 [0m0.284 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m0.475 ms - 4322[0m
+in get
+{}
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' } ]
+[0mGET /getDocuments [36m304 [0m0.899 ms - -[0m
+[0mGET /header.html [36m304 [0m0.267 ms - -[0m
+[0mGET /footer.html [36m304 [0m0.304 ms - -[0m
+[0mGET /images/icon.png [36m304 [0m0.544 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.681 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.460 ms - 1464[0m
+in post
+{ text: '' }
+
+[0mPOST /saveTemp [32m200 [0m1.512 ms - 0[0m
+in post
+{ text: 't' }
+t
+[0mPOST /saveTemp [32m200 [0m0.553 ms - 1[0m
+in post
+{ text: 'th' }
+th
+[0mPOST /saveTemp [32m200 [0m0.578 ms - 2[0m
+in post
+{ text: 'thi' }
+thi
+[0mPOST /saveTemp [32m200 [0m0.595 ms - 3[0m
+in post
+{ text: 'this' }
+this
+[0mPOST /saveTemp [32m200 [0m0.740 ms - 4[0m
+in post
+{ text: 'this ' }
+this 
+[0mPOST /saveTemp [32m200 [0m0.789 ms - 5[0m
+in post
+{ text: 'this i' }
+this i
+[0mPOST /saveTemp [32m200 [0m0.765 ms - 6[0m
+in post
+{ text: 'this is' }
+this is
+[0mPOST /saveTemp [32m200 [0m0.600 ms - 7[0m
+in post
+{ text: 'this is ' }
+this is 
+[0mPOST /saveTemp [32m200 [0m0.585 ms - 8[0m
+in post
+{ text: 'this is a' }
+this is a
+[0mPOST /saveTemp [32m200 [0m0.742 ms - 9[0m
+in post
+{ text: 'this is a ' }
+this is a 
+[0mPOST /saveTemp [32m200 [0m0.758 ms - 10[0m
+in post
+{ text: 'this is a T' }
+this is a T
+[0mPOST /saveTemp [32m200 [0m0.618 ms - 11[0m
+in post
+{ text: 'this is a T' }
+this is a T
+[0mPOST /saveTemp [32m200 [0m0.747 ms - 11[0m
+in post
+{ text: 'this is a Te' }
+this is a Te
+[0mPOST /saveTemp [32m200 [0m0.766 ms - 12[0m
+in post
+{ text: 'this is a Tes' }
+this is a Tes
+[0mPOST /saveTemp [32m200 [0m0.757 ms - 13[0m
+in post
+{ text: 'this is a Test' }
+this is a Test
+[0mPOST /saveTemp [32m200 [0m0.771 ms - 14[0m
+in post
+{ name: 'text.txt', text: 'this is a Test' }
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' },
+  { name: 'text.txt', text: 'this is a Test' } ]
+[0mPOST /saveDocument [32m200 [0m0.682 ms - 43[0m
+in get
+{}
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' },
+  { name: 'text.txt', text: 'this is a Test' } ]
+[0mGET /getDocuments [32m200 [0m0.778 ms - 366[0m
+in post
+{ text: 'H' }
+H
+[0mPOST /saveTemp [32m200 [0m0.616 ms - 1[0m
+in post
+{ text: 'H' }
+H
+[0mPOST /saveTemp [32m200 [0m0.567 ms - 1[0m
+in post
+{ text: 'He' }
+He
+[0mPOST /saveTemp [32m200 [0m0.562 ms - 2[0m
+in post
+{ text: 'Hel' }
+Hel
+[0mPOST /saveTemp [32m200 [0m0.744 ms - 3[0m
+in post
+{ text: 'Hell' }
+Hell
+[0mPOST /saveTemp [32m200 [0m0.738 ms - 4[0m
+in post
+{ text: 'Hello' }
+Hello
+[0mPOST /saveTemp [32m200 [0m0.751 ms - 5[0m
+in post
+{ name: 'hello.txt', text: 'Hello' }
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' },
+  { name: 'text.txt', text: 'this is a Test' },
+  { name: 'hello.txt', text: 'Hello' } ]
+[0mPOST /saveDocument [32m200 [0m0.666 ms - 35[0m
+in get
+{}
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' },
+  { name: 'text.txt', text: 'this is a Test' },
+  { name: 'hello.txt', text: 'Hello' } ]
+[0mGET /getDocuments [32m200 [0m0.747 ms - 402[0m
+IN DELETE
+3
+2
+DONE
+[0mPUT /deleteFile [32m200 [0m1.244 ms - 37[0m
+in get
+{}
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' },
+  { name: 'text.txt', text: 'this is a Test' } ]
+[0mGET /getDocuments [32m200 [0m0.726 ms - 366[0m
+IN DELETE
+2
+1
+DONE
+[0mPUT /deleteFile [32m200 [0m0.589 ms - 45[0m
+in get
+{}
+[ { name: 'README.txt',
+    text:
+     'Simple Document Editor:\nWorks similar to Microsoft Word.\n\'Save\' will save to the current file, overwriting it.\n\'Save As\' will save text to a new name.\n\'Load\' loads in the contents of a file\n\'Delete\' deletes a file from the server\n\'New File\' Clears the text box and current file name.' } ]
+[0mGET /getDocuments [32m200 [0m1.123 ms - 322[0m

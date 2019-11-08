@@ -41,6 +41,10 @@ var app = new Vue({
         await this.save();
     },
     async save() {
+        if(this.currentFile == "README.txt"){
+            alert("Cannot Change or Delete README");
+            return;
+        }
         if (this.currentFile == ""){
             this.saveAs();
             return;
@@ -97,6 +101,10 @@ var app = new Vue({
         this.saved = true;
     },
     async deleteFile(){
+        if(this.file == "README.txt"){
+            alert("Cannot Change or Delete README");
+            return;
+        }
         console.log("IN DELETE");
         if(!confirm("Are you sure you want to delete " + this.file)){
             return;
@@ -141,6 +149,8 @@ var app = new Vue({
             }
         }
         this.words = "";
+        this.currentFile = "";
+        this.file = "";
         this.saved = true;
     },
     async saveTemp(){
