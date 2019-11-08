@@ -29,6 +29,7 @@ app.use(bodyParser.json());
 app.use(express.static('public'));
 let docs = [];
 let temp = "";
+let currentFile = "";
 let changed = false;
 app.post('/saveDocument', (req, res) => {
     console.log("in post");
@@ -37,6 +38,7 @@ app.post('/saveDocument', (req, res) => {
     name: req.body.name,
     text: req.body.text,
   };
+  currentFile = req.body.name;
   docs.push(item);
   console.log(docs);
   res.send(item);
@@ -48,6 +50,12 @@ app.post('/saveTemp', (req, res) => {
   console.log(temp);
   this.changed = true;
   res.send(temp);
+});
+app.get('/getCurrFile', (req, res) => {
+    console.log("in post");
+    console.log(req.body);
+  console.log(currentFile);
+  res.send(currentFile);
 });
 app.get('/getTemp', (req,res) =>{
       console.log("in get");

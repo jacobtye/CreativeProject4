@@ -12,6 +12,7 @@ var app = new Vue({
   created: function() {
     this.updateFiles();
     console.log(this.docs);
+    this.getTemp();
       
 
   },
@@ -22,7 +23,7 @@ var app = new Vue({
   },
   methods: {
     async saveAs(){
-        if (this.file == "" && this.currentFile == ""){
+        if (this.file == "" || this.file == null){
             this.file = prompt("Please enter file name", "");
         }
         if (this.file == "" || this.file == null){
@@ -45,7 +46,7 @@ var app = new Vue({
             alert("Cannot Change or Delete README");
             return;
         }
-        if (this.currentFile == ""){
+        if (this.currentFile == "" || this.currentFile == null){
             this.saveAs();
             return;
         }
@@ -83,7 +84,7 @@ var app = new Vue({
         }
     },
     async loadFile(){
-        if (this.file == ""){
+        if (this.file == "" || this.file == null){
             this.file = prompt("Please enter file name", "");
         }
         if (this.file == "" || this.file == null){
@@ -105,6 +106,12 @@ var app = new Vue({
             alert("Cannot Change or Delete README");
             return;
         }
+        if (this.file == "" || this.file == null){
+            this.file = prompt("Please enter file name", "");
+        }
+        if (this.file == "" || this.file == null){
+            return;
+        }
         console.log("IN DELETE");
         if(!confirm("Are you sure you want to delete " + this.file)){
             return;
@@ -113,6 +120,10 @@ var app = new Vue({
             return item.name;
         });
         let index = docsMap.indexOf(this.file);
+        if (index == -1){
+            alert("No file " + this.file);
+            return;
+        }
         try {
             const response = await axios.put("/deleteFile", {
             index: index,
@@ -154,10 +165,22 @@ var app = new Vue({
         this.saved = true;
     },
     async saveTemp(){
+        console.log(this.docs);
         console.log("in temp" + this.words);
         const response = await axios.post("/saveTemp", {
           text: this.words,
         });
+    },
+    async getTemp(){
+        console.log("in temp" + this.words);
+        const response = await axios.get("/getTemp");
+        this.words = response.data;
+        await this.getCurrFile();
+    },
+    async getCurrFile(){
+        console.log("in temp" + this.words);
+        const response = await axios.get("/getCurrFile");
+        this.currentFile = response.data;
     }
   }
 });
